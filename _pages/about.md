@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 :wave: Hi there! I am Alexander Meynen. Thanks for stopping by on my personal Github pages website.
 
-As an aspiring Data Scientist I plan to use this website as a personal tool to track my progress. 
+
 
 [//]: # You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
