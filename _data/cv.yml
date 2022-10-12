@@ -2,18 +2,19 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Alexander
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14 January 1993
     - name: Languages
-      value: English, German
+      value: Dutch, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: PhD in Medical Sciences, Health and Technology | KU Leuven
+      year: 2017-2022
+      supervisors: Prof. Lennart Scheys (KU Leuven), Prof. Amir Zadpoor (TU Delft) and Prof. Michiel Mulier (UZ Leuven)
       description:
         - Description 1.
         - Description 2.
